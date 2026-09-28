@@ -6,3 +6,8 @@
 
 
 print("hello world")
+
+#Get Username
+user_name=input("What is your username?")
+print("Hello " + user_name + "!")
+#Say hello to user
