@@ -1,0 +1,15 @@
+IT102 - Stretch Yourself: Prime numbers (extra credit)
+Script: start/CH05/PrimeChecker.py
+
+$ python3 PrimeChecker.py
+Enter a number: 5
+5 is prime
+
+$ python3 PrimeChecker.py
+Enter a number: 12
+12 is NOT prime
+
+$ python3 PrimeChecker.py
+Enter a number: 104743
+104743 is prime
+
